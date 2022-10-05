@@ -12,6 +12,6 @@ public class Largest {
     public static void main(String[] args) {
         int arr[] = { 2, 4, 34, 321, 12, 67 };
         int max =largest(arr);
-        System.out.println("The largest number Is :" + max);
+        System.out.println("The largest number in array is :" + max);
     }
 }
