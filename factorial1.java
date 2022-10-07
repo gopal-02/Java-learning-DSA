@@ -5,6 +5,6 @@ public class factorial1 {
         return f;
     }
     public static void main(String[] args) {
-       System.out.println("factorial  "+factorial(5)); 
+       System.out.println("factorial  is "+factorial(5)); 
     }
 }
